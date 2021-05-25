@@ -1,0 +1,11 @@
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\bin\Debug\Deteccion.exe.config
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\bin\Debug\Deteccion.exe
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\bin\Debug\Deteccion.pdb
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.csprojAssemblyReference.cache
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.Properties.Resources.resources
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.csproj.GenerateResource.cache
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.csproj.CoreCompileInputs.cache
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.exe
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.pdb
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\bin\Debug\seccion.accdb
+C:\Users\CEMGAR\source\repos\Deteccion\Deteccion\obj\Debug\Deteccion.Form1.resources
